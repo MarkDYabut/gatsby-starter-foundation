@@ -4,9 +4,9 @@
     "titleTemplate": "%s",
     "description": "Mark Yabut is a writer, builder, developer, creator, engineer, technician, handyman, gamer, traveller, programmer, ...",
     "siteUrl": "https://markyabut.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
+    "image": "/assets/gatsby-icon.png",
+    "iconimage": "/assets/gatsby-icon.png",
     "twitterUsername": ""
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-176069437-1"
 }
